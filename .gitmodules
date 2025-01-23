@@ -1,0 +1,3 @@
+[submodule "mediawiki-api-demos"]
+	path = mediawiki-api-demos
+	url = https://github.com/wikimedia/mediawiki-api-demos.git
